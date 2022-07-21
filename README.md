@@ -12,7 +12,7 @@ Users can calculate tips from an amount
 Clone the project
 
 ```bash
-  git clone https://github.com/Rquaicoo/DiceRoll
+  git clone https://github.com/Rquaicoo/TipCalculatorKotlin
 ```
 
 Open the project in Android Studio.
